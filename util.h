@@ -5,6 +5,4 @@
 
 uint64_t shift(int num_bits);
 
-int divide(int length);
-
 #endif  // UTIL_H
