@@ -1,8 +1,8 @@
-#include "util.h"
+#include "foo.h"
 
 #include <cassert>
 
-uint64_t shift(int num_bits)
+uint64_t foo(int num_bits)
 {
     int x = 0;
     for (int i = 0; i < num_bits; ++i) {

@@ -1,8 +1,8 @@
-#ifndef UTIL_H
-#define UTIL_H
+#ifndef FOO_H
+#define FOO_H
 
 #include <cstdint>  // uint64_t
 
-uint64_t shift(int num_bits);
+uint64_t foo(int num_bits);
 
-#endif  // UTIL_H
+#endif  // FOO_H
