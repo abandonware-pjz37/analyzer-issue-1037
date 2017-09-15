@@ -1,6 +1,5 @@
-#include "foo.h"
-
 #include <cassert>
+#include <cstdint>
 
 uint64_t foo(int num_bits)
 {
